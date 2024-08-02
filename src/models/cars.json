@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Gentra",
+    "price": 13000,
+    "color": "Readline",
+    "desc": "Juda yaxshi moshina",
+    "img": "https://frankfurt.apollo.olxcdn.com/v1/files/kpz0kxq66aos1-UZ/image"
+  },
+  {
+    "id": 2,
+    "name": "Audi",
+    "price": 80000,
+    "color": "red",
+    "desc": "Juda yaxshi moshina",
+    "img": "https://i.pinimg.com/originals/a0/73/6c/a0736cda007ecf73529996951732b53c.jpg"
+  },
+  {
+    "id": 3,
+    "name": "damas",
+    "price": "10000",
+    "color": "#000000",
+    "img": "https://lionmotors.uz/wp-content/uploads/2020/11/damaswhite.jpg"
+  },
+  {
+    "id": 4,
+    "name": "matiz",
+    "price": "10000",
+    "color": "#e04d4d",
+    "desc": "yaxshi mashina",
+    "img": "https://www.avtorinok.ru/photo/pics/daewoo/matiz/4948.jpg"
+  }
+]
+
+
+
